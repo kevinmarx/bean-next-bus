@@ -1,0 +1,16 @@
+{
+  "name": "next_bus",
+  "version": "1.0.0",
+  "description": "Fetches Next Bus Data and sends it to your Bean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Marx",
+  "license": "ISC",
+  "dependencies": {
+    "ble-bean": "^2.0.0",
+    "request": "^2.51.0",
+    "underscore": "^1.7.0"
+  }
+}
