@@ -1,6 +1,6 @@
 bean-next-bus
 =============
-![](I created a next trip display for the stop of your choosing using Metro Transit's Next Trip API.)
+![](https://dl.dropboxusercontent.com/s/aop4d9ihtxx6g55/bean-next-bus.gif)
 
 Show Metro Transit's Next Trip Data on the Punch Through Bean through Adafruit's 8x8 LED Matrix.
 
